@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Account</title>
+    <g id="Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(2.500000, 1.500000)" stroke="#333333" stroke-width="2">
+            <path d="M18.1481481,20.4166667 L18.1481481,18.1481481 C18.1481481,15.6424118 16.1168475,13.6111111 13.6111111,13.6111111 L4.53703704,13.6111111 C2.03130067,13.6111111 0,15.6424118 0,18.1481481 L0,20.4166667" id="Path"></path>
+            <circle id="Oval" cx="9.07407407" cy="4.53703704" r="4.53703704"></circle>
+        </g>
+    </g>
+</svg>
